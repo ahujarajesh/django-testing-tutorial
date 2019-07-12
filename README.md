@@ -11,7 +11,7 @@ Build the job and check status.
 
 If the build is successful visit http://3.82.171.238:8000 and check you are getting the Homepage
 
-To test the pipeline is working and if the tast case fails it will send the email notificatoin and code will not be push to server follw below steps:
+Follw below steps to test the pipeline is working and if the tast case fails it will send the email notificatoin and code will not be pushed to server.
 
 Clone the https://github.com/brijeshakbari/django-testing-tutorial.git to your github account
 
